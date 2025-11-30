@@ -11,6 +11,6 @@
 
 ## Установка
 1. Создайте БД `myshop` в PostgreSQL.
-2. Выполните `sql/table.sql`.
-3. В GlassFish создайте JDBC Pool и Resource.
-4. Разверните `shop-app.war`.
+2. Выполните `table.sql`.
+4. В GlassFish создайте JDBC Pool и Resource.
+5. Разверните `shop-app.war`.
